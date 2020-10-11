@@ -12,4 +12,6 @@ Below is a screenshot of the live webpage:
 
 The header elements "Search Engine Optimization", "Online Reputation Management", and "Social Media Marketing" are links that, when clicked, redirect the user to the appropriate part of the webpage. 
 
+###Credits
 
+I'd like to credit [W3Schools](https://www.w3schools.com/) and their HTML and CSS guides, which have been a tremendous help.
