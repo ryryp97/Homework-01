@@ -6,3 +6,4 @@ The site can be reached at this URL: https://ryryp97.github.io/Homework-01/
 
 The purpose of creating this repo was to practice refactoring an existing codebase.  This was achieved through the following actions: consolidating the CSS selectors and properties to eliminate redundancies, utilizing semantic HTML elements, adding proper alt attributes to image elements, and leaving appropriate comments.
 
+![Website-Screenshot](assets/images/Website-Screenshot.png)
