@@ -7,7 +7,9 @@
 body {
     background-color: #d9dcd6;
 }
+
 /*This part styles the header as well as the links that are a part of it */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -68,7 +70,9 @@ p {
     float: right;
     margin-left: 25px;
 }
+
 /*This part styles the section elements as well as the images contained within the section */
+
 section {
     width: 75%;
     display: inline-block;
@@ -92,6 +96,8 @@ section {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/*This part styles the sidebar elements */
 
 aside {
     margin-right: 20px;
@@ -127,6 +133,7 @@ footer {
     text-align: center;
 }
 
+/*This part styles the footer element */
 footer h2 {
     font-size: 20px;
 }
