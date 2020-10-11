@@ -1,4 +1,4 @@
-# Homework-01 Horiseon Webpage
+# Homework-01: Horiseon Webpage
 
 This repository contains HTML, CSS, and image files which are utilized on the live webpage found below.
 
